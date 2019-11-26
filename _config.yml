@@ -14,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: k4104487
-  tagline: Developer. Designer
+  title: jae seok Kim
+  tagline: Kangwon National University College student
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
