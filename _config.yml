@@ -14,7 +14,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: jae seok Kim ![나의사진1](https://user-images.githubusercontent.com/57663505/69664805-70cbd200-10cc-11ea-88af-06dda99c2c0f.jpg)
+  title: jae seok Kim
   tagline: Kangwon National University College student
   date_format: "%b %-d, %Y"
   style: black
